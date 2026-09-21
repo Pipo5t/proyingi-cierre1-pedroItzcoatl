@@ -86,7 +86,7 @@ Desarrollo de un guante inteligente que mide la temperatura exterior mediante se
 
 - [x] [Pues no encontraba mis archivos ni mi carpeta de proyectos medio escondida y tampoco había creado mi repositorio que se realizó al principio de la clase]
 
-- [ ] [No me sale por mi mismo enviar mis notas de obsidian a github]
+- [x] [No me sale por mi mismo enviar mis notas de obsidian a github]
 
 - [ ] [Aprenderme bien y memorizarme los comandos necesarios para obsidian y git]
 
