@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Investigación Proyecto.md",
+                "file": "Idea Elegida Proyecto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Investigación Proyecto"
+              "title": "Idea Elegida Proyecto"
             }
           }
         ]
@@ -188,12 +188,12 @@
   },
   "active": "d7320e40457e1712",
   "lastOpenFiles": [
-    "Inicio de proyecto.md",
     "Ideas Proyecto.md",
     "Investigación Proyecto.md",
+    "README.md",
+    "Idea Elegida Proyecto.md",
     "Ideas.md",
     "ideas-proyecto.md",
-    "README.md",
     "investigacion.md"
   ]
 }

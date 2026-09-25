@@ -18,6 +18,7 @@
 
 **Equipo:** []
 
+ver [[Inicio de proyecto]] o [[Ideas Proyecto]]
   
 
 ---
