@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cad/pieza -s6.md",
+                "file": "cad/Captura idea de proyecto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pieza -s6"
+              "title": "Captura idea de proyecto"
             }
           }
         ]
@@ -188,12 +188,13 @@
   },
   "active": "d7320e40457e1712",
   "lastOpenFiles": [
+    "IdeaTapa.png",
     "cad/Captura idea de proyecto.md",
     "cad/pieza -s6.md",
+    "README.md",
     "Idea Elegida Proyecto.md",
     "Ideas Proyecto.md",
     "Investigación Proyecto.md",
-    "README.md",
     "Ideas.md",
     "ideas-proyecto.md",
     "investigacion.md"
