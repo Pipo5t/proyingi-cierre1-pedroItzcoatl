@@ -489,27 +489,27 @@ $SKPOLY
   9
 $TDCREATE
  40
-2461329.984201389
+2461330.015277778
   9
 $TDUCREATE
  40
-2461329.984201389
+2461330.015277778
   9
 $TDUPDATE
  40
-2461329.984201389
+2461330.015277778
   9
 $TDUUPDATE
  40
-2461329.984201389
+2461330.015277778
   9
 $TDINDWG
  40
-0.0000115741
+0.0000231481
   9
 $TDUSRTIMER
  40
-0.0000115741
+0.0000231481
   9
 $USRTIMER
  70
@@ -549,7 +549,7 @@ $SPLINESEGS
   9
 $HANDSEED
   5
-12D
+133
   9
 $SURFTAB1
  70
@@ -929,11 +929,11 @@ $PSTYLEMODE
   9
 $FINGERPRINTGUID
   2
-{000F6A80-8FD8-AD47-B1AE-8E6D5AA642C6}
+{34F0ADFB-E87D-474D-BF02-09CB6BDFB871}
   9
 $VERSIONGUID
   2
-{6EA648C5-E76F-6846-A82C-C37684800F6F}
+{4DF30BBC-D80B-5640-BF5A-DD81F1395669}
   9
 $EXTNAMES
 290
@@ -1557,7 +1557,7 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
  70
      0
  62
@@ -2029,7 +2029,7 @@ SECTION
   2
 ENTITIES
   0
-POINT
+LINE
   5
 7B
 330
@@ -2037,49 +2037,7 @@ POINT
 100
 AcDbEntity
   8
-Caja v11_Sketch1
-100
-AcDbPoint
- 10
-0.0
- 20
-0.0
- 30
-0.0
-  0
-LINE
-  5
-7C
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--35.00000052154064
- 20
--130.0
- 30
-0.0
- 11
--35.00000052154064
- 21
--136.0
- 31
-0.0
-  0
-LINE
-  5
-7D
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
@@ -2097,13 +2055,13 @@ AcDbLine
   0
 LINE
   5
-7E
+7C
 330
 70
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
@@ -2121,109 +2079,13 @@ AcDbLine
   0
 LINE
   5
-7F
+7D
 330
 70
 100
 AcDbEntity
   8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--45.00000081956386
- 20
--136.0
- 30
-0.0
- 11
--45.00000081956386
- 21
--130.0
- 31
-0.0
-  0
-LINE
-  5
-80
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--25.00000052154064
- 20
--136.0
- 30
-0.0
- 11
--25.00000052154064
- 21
--130.0
- 31
-0.0
-  0
-LINE
-  5
-81
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--16.00000008940696
- 20
--136.0
- 30
-0.0
- 11
--16.00000008940696
- 21
--130.0
- 31
-0.0
-  0
-LINE
-  5
-82
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--16.00000008940696
- 20
--130.0
- 30
-0.0
- 11
--6.000000089406967
- 21
--130.0
- 31
-0.0
-  0
-LINE
-  5
-83
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
@@ -2241,109 +2103,133 @@ AcDbLine
   0
 LINE
   5
-84
+7E
 330
 70
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
--45.37370922800078
+-45.00000081956385
  20
--56.00000000000001
- 30
-0.0
- 11
--45.37370922800078
- 21
--62.00000000000001
- 31
-0.0
-  0
-LINE
-  5
-85
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--53.99970922800078
- 20
--62.00000000000001
- 30
-0.0
- 11
--53.99970922800078
- 21
--56.00000000000001
- 31
-0.0
-  0
-LINE
-  5
-86
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--24.77934783128096
- 20
--56.00000000000001
- 30
-0.0
- 11
--24.77934783128096
- 21
--62.00000000000001
- 31
-0.0
-  0
-LINE
-  5
-87
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--6.000000089406967
- 20
--130.0
- 30
-0.0
- 11
--6.000000089406967
- 21
 -136.0
+ 30
+0.0
+ 11
+-45.00000081956385
+ 21
+-130.0
  31
 0.0
   0
 LINE
   5
-88
+7F
 330
 70
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-16.00000008940696
+ 20
+-136.0
+ 30
+0.0
+ 11
+-16.00000008940696
+ 21
+-130.0
+ 31
+0.0
+  0
+LINE
+  5
+80
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-53.99970922800079
+ 20
+-62.00000000000001
+ 30
+0.0
+ 11
+-53.99970922800079
+ 21
+-56.00000000000001
+ 31
+0.0
+  0
+LINE
+  5
+81
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-25.00000052154064
+ 20
+-136.0
+ 30
+0.0
+ 11
+-25.00000052154064
+ 21
+-130.0
+ 31
+0.0
+  0
+LINE
+  5
+82
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-24.77934783128097
+ 20
+-56.00000000000001
+ 30
+0.0
+ 11
+-24.77934783128097
+ 21
+-62.00000000000001
+ 31
+0.0
+  0
+LINE
+  5
+83
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
@@ -2361,41 +2247,41 @@ AcDbLine
   0
 LINE
   5
-89
+84
 330
 70
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
-0.0
+-16.00000008940696
  20
--91.00000135600566
+-130.0
  30
 0.0
  11
--6.0
+-6.000000089406967
  21
--91.00000135600566
+-130.0
  31
 0.0
   0
 LINE
   5
-8A
+85
 330
 70
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
--24.77934783128096
+-24.77934783128097
  20
 6.0
  30
@@ -2409,13 +2295,13 @@ AcDbLine
   0
 LINE
   5
-8B
+86
 330
 70
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
@@ -2433,13 +2319,13 @@ AcDbLine
   0
 LINE
   5
-8C
+87
 330
 70
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
@@ -2457,25 +2343,145 @@ AcDbLine
   0
 LINE
   5
+88
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-6.000000238418579
+ 20
+74.0
+ 30
+0.0
+ 11
+-16.00000023841858
+ 21
+74.0
+ 31
+0.0
+  0
+LINE
+  5
+89
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-34.77934783128096
+ 20
+-9.0
+ 30
+0.0
+ 11
+-34.77934783128096
+ 21
+-2.999999999999999
+ 31
+0.0
+  0
+LINE
+  5
+8A
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-35.00000052154064
+ 20
+-130.0
+ 30
+0.0
+ 11
+-35.00000052154064
+ 21
+-136.0
+ 31
+0.0
+  0
+LINE
+  5
+8B
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-16.00000023841858
+ 20
+127.0
+ 30
+0.0
+ 11
+-24.77934783128097
+ 21
+127.0
+ 31
+0.0
+  0
+LINE
+  5
+8C
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-24.77934783128097
+ 20
+-2.999999999999998
+ 30
+0.0
+ 11
+-24.77934783128097
+ 21
+-9.0
+ 31
+0.0
+  0
+LINE
+  5
 8D
 330
 70
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
--34.77934783128096
+-45.37336003900339
  20
-89.0
+-9.0
  30
 0.0
  11
--45.37370922800077
+-34.77934783128096
  21
-89.0
+-9.0
  31
 0.0
   0
@@ -2487,19 +2493,19 @@ LINE
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
-47.00000000000001
+-34.77934783128096
  20
-45.00000044703483
+6.0
  30
 0.0
  11
-53.00000000000001
+-34.77934783128096
  21
-45.00000044703483
+0.0
  31
 0.0
   0
@@ -2511,7 +2517,79 @@ LINE
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+0.0
+ 20
+-91.00000135600565
+ 30
+0.0
+ 11
+-6.0
+ 21
+-91.00000135600565
+ 31
+0.0
+  0
+LINE
+  5
+90
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-6.000000089406968
+ 20
+-130.0
+ 30
+0.0
+ 11
+-6.000000089406968
+ 21
+-136.0
+ 31
+0.0
+  0
+LINE
+  5
+91
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-34.77934783128096
+ 20
+89.0
+ 30
+0.0
+ 11
+-45.37370922800078
+ 21
+89.0
+ 31
+0.0
+  0
+LINE
+  5
+92
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
@@ -2529,13 +2607,61 @@ AcDbLine
   0
 LINE
   5
-90
+93
 330
 70
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-45.37370922800078
+ 20
+-56.00000000000001
+ 30
+0.0
+ 11
+-45.37370922800078
+ 21
+-62.00000000000001
+ 31
+0.0
+  0
+LINE
+  5
+94
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+47.00000000000001
+ 20
+45.00000044703482
+ 30
+0.0
+ 11
+53.00000000000001
+ 21
+45.00000044703482
+ 31
+0.0
+  0
+LINE
+  5
+95
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
@@ -2553,37 +2679,13 @@ AcDbLine
   0
 LINE
   5
-91
+96
 330
 70
 100
 AcDbEntity
   8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--45.37336003900339
- 20
--9.0
- 30
-0.0
- 11
--34.77934783128096
- 21
--9.0
- 31
-0.0
-  0
-LINE
-  5
-92
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
@@ -2596,102 +2698,6 @@ AcDbLine
 -34.77934783128096
  21
 -53.0
- 31
-0.0
-  0
-LINE
-  5
-93
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--6.000000238418579
- 20
-74.0
- 30
-0.0
- 11
--16.00000023841858
- 21
-74.0
- 31
-0.0
-  0
-LINE
-  5
-94
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--34.77934783128096
- 20
--9.0
- 30
-0.0
- 11
--34.77934783128096
- 21
--2.999999999999999
- 31
-0.0
-  0
-LINE
-  5
-95
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--16.00000023841858
- 20
-127.0
- 30
-0.0
- 11
--24.77934783128096
- 21
-127.0
- 31
-0.0
-  0
-LINE
-  5
-96
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--24.77934783128096
- 20
--2.999999999999998
- 30
-0.0
- 11
--24.77934783128096
- 21
--9.0
  31
 0.0
   0
@@ -2703,19 +2709,19 @@ LINE
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
--34.77934783128096
+-16.00000023841858
  20
-6.0
+-56.00000092387199
  30
 0.0
  11
--34.77934783128096
+-16.00000023841858
  21
-0.0
+-62.00000092387199
  31
 0.0
   0
@@ -2727,19 +2733,19 @@ LINE
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
--16.00000023841858
+47.00000000000001
  20
--56.00000092387199
+30.00000044703484
  30
 0.0
  11
--16.00000023841858
+47.00000000000001
  21
--62.00000092387199
+45.00000044703482
  31
 0.0
   0
@@ -2751,391 +2757,7 @@ LINE
 100
 AcDbEntity
   8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--24.77934783128096
- 20
--62.00000000000001
- 30
-0.0
- 11
--34.77934783128096
- 21
--62.00000000000001
- 31
-0.0
-  0
-LINE
-  5
-9A
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--54.0000008046627
- 20
-74.0
- 30
-0.0
- 11
--54.0000008046627
- 21
-80.0
- 31
-0.0
-  0
-LINE
-  5
-9B
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--45.37336003900339
- 20
--2.999999999999998
- 30
-0.0
- 11
--45.37336003900339
- 21
--9.0
- 31
-0.0
-  0
-LINE
-  5
-9C
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--6.000000238418579
- 20
-79.99999999999999
- 30
-0.0
- 11
--6.000000238418579
- 21
-73.99999999999998
- 31
-0.0
-  0
-LINE
-  5
-9D
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--24.77934783128096
- 20
-73.99999999999998
- 30
-0.0
- 11
--34.77934783128096
- 21
-73.99999999999998
- 31
-0.0
-  0
-LINE
-  5
-9E
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--16.00000023841858
- 20
--62.00000092387199
- 30
-0.0
- 11
--6.000000238418579
- 21
--62.00000092387199
- 31
-0.0
-  0
-LINE
-  5
-9F
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--24.77934783128096
- 20
--46.99999999999999
- 30
-0.0
- 11
--24.77934783128096
- 21
--53.0
- 31
-0.0
-  0
-LINE
-  5
-A0
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
-0.0
- 20
-89.0
- 30
-0.0
- 11
--6.000000089406967
- 21
-89.0
- 31
-0.0
-  0
-LINE
-  5
-A1
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--60.00000089406967
- 20
-127.0
- 30
-0.0
- 11
--55.37370922800078
- 21
-127.0
- 31
-0.0
-  0
-LINE
-  5
-A2
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--34.77934783128096
- 20
-127.0
- 30
-0.0
- 11
--45.37370922800077
- 21
-127.0
- 31
-0.0
-  0
-LINE
-  5
-A3
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--16.00000023841858
- 20
-133.0
- 30
-0.0
- 11
--16.00000023841858
- 21
-127.0
- 31
-0.0
-  0
-LINE
-  5
-A4
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--24.77934783128096
- 20
-127.0
- 30
-0.0
- 11
--24.77934783128096
- 21
-133.0
- 31
-0.0
-  0
-LINE
-  5
-A5
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--6.000000089406967
- 20
-89.0
- 30
-0.0
- 11
--6.000000089406967
- 21
-83.0
- 31
-0.0
-  0
-LINE
-  5
-A6
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--6.000000089406967
- 20
--47.0
- 30
-0.0
- 11
--6.000000089406967
- 21
--53.0
- 31
-0.0
-  0
-LINE
-  5
-A7
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--16.00000023841858
- 20
--53.0
- 30
-0.0
- 11
--16.00000023841858
- 21
--46.99999999999999
- 31
-0.0
-  0
-LINE
-  5
-A8
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--45.37336003900339
- 20
--53.0
- 30
-0.0
- 11
--45.37336003900339
- 21
--46.99999999999999
- 31
-0.0
-  0
-LINE
-  5
-A9
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
@@ -3153,13 +2775,13 @@ AcDbLine
   0
 LINE
   5
-AA
+9A
 330
 70
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
@@ -3177,229 +2799,13 @@ AcDbLine
   0
 LINE
   5
-AB
+9B
 330
 70
 100
 AcDbEntity
   8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--54.00462621332808
- 20
-89.0
- 30
-0.0
- 11
--54.00462621332808
- 21
-83.0
- 31
-0.0
-  0
-LINE
-  5
-AC
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--16.00000023841858
- 20
-6.0
- 30
-0.0
- 11
--16.00000023841858
- 21
-0.0
- 31
-0.0
-  0
-LINE
-  5
-AD
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--16.00000023841858
- 20
-89.0
- 30
-0.0
- 11
--24.77934783128096
- 21
-89.0
- 31
-0.0
-  0
-LINE
-  5
-AE
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--55.37370922800078
- 20
-127.0
- 30
-0.0
- 11
--55.37370922800078
- 21
-133.0
- 31
-0.0
-  0
-LINE
-  5
-AF
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--34.77934783128096
- 20
-133.0
- 30
-0.0
- 11
--34.77934783128096
- 21
-127.0
- 31
-0.0
-  0
-LINE
-  5
-B0
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--16.00000023841858
- 20
--9.0
- 30
-0.0
- 11
--16.00000023841858
- 21
--2.999999999999999
- 31
-0.0
-  0
-LINE
-  5
-B1
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--53.99936003900339
- 20
-6.0
- 30
-0.0
- 11
--53.99936003900339
- 21
-0.0
- 31
-0.0
-  0
-LINE
-  5
-B2
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--45.37336003900339
- 20
-0.0
- 30
-0.0
- 11
--45.37336003900339
- 21
-6.0
- 31
-0.0
-  0
-LINE
-  5
-B3
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--24.77934783128096
- 20
-79.99999999999999
- 30
-0.0
- 11
--24.77934783128096
- 21
-73.99999999999998
- 31
-0.0
-  0
-LINE
-  5
-B4
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
@@ -3417,61 +2823,13 @@ AcDbLine
   0
 LINE
   5
-B5
+9C
 330
 70
 100
 AcDbEntity
   8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--6.000000089406967
- 20
-126.999999910593
- 30
-0.0
- 11
--6.000000089406967
- 21
-133.0
- 31
-0.0
-  0
-LINE
-  5
-B6
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--16.00000023841858
- 20
--46.99999999999999
- 30
-0.0
- 11
--24.77934783128096
- 21
--46.99999999999999
- 31
-0.0
-  0
-LINE
-  5
-B7
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
@@ -3489,13 +2847,133 @@ AcDbLine
   0
 LINE
   5
-B8
+9D
 330
 70
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-16.00000023841858
+ 20
+83.0
+ 30
+0.0
+ 11
+-16.00000023841858
+ 21
+89.0
+ 31
+0.0
+  0
+LINE
+  5
+9E
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-24.77934783128097
+ 20
+73.99999999999998
+ 30
+0.0
+ 11
+-34.77934783128096
+ 21
+73.99999999999998
+ 31
+0.0
+  0
+LINE
+  5
+9F
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+0.0
+ 20
+89.0
+ 30
+0.0
+ 11
+-6.000000089406968
+ 21
+89.0
+ 31
+0.0
+  0
+LINE
+  5
+A0
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-54.00462621332807
+ 20
+89.0
+ 30
+0.0
+ 11
+-54.00462621332807
+ 21
+83.0
+ 31
+0.0
+  0
+LINE
+  5
+A1
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-16.00000023841858
+ 20
+89.0
+ 30
+0.0
+ 11
+-24.77934783128097
+ 21
+89.0
+ 31
+0.0
+  0
+LINE
+  5
+A2
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
@@ -3513,61 +2991,205 @@ AcDbLine
   0
 LINE
   5
-B9
+A3
 330
 70
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
--24.77934783128096
+-45.37336003900339
  20
+-2.999999999999998
+ 30
+0.0
+ 11
+-45.37336003900339
+ 21
 -9.0
+ 31
+0.0
+  0
+LINE
+  5
+A4
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-16.00000023841858
+ 20
+-62.00000092387199
+ 30
+0.0
+ 11
+-6.000000238418579
+ 21
+-62.00000092387199
+ 31
+0.0
+  0
+LINE
+  5
+A5
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-6.000000089406968
+ 20
+89.0
+ 30
+0.0
+ 11
+-6.000000089406968
+ 21
+83.0
+ 31
+0.0
+  0
+LINE
+  5
+A6
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-34.77934783128096
+ 20
+133.0
+ 30
+0.0
+ 11
+-34.77934783128096
+ 21
+127.0
+ 31
+0.0
+  0
+LINE
+  5
+A7
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-55.37370922800079
+ 20
+127.0
+ 30
+0.0
+ 11
+-55.37370922800079
+ 21
+133.0
+ 31
+0.0
+  0
+LINE
+  5
+A8
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-16.00000023841858
+ 20
+-53.0
  30
 0.0
  11
 -16.00000023841858
  21
--9.0
+-46.99999999999999
  31
 0.0
   0
 LINE
   5
-BA
+A9
 330
 70
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
--34.77934783128096
+-45.37336003900339
  20
--62.00000000000001
+0.0
  30
 0.0
  11
--34.77934783128096
+-45.37336003900339
  21
--56.00000000000001
+6.0
  31
 0.0
   0
 LINE
   5
-BB
+AA
 330
 70
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-16.00000023841858
+ 20
+-46.99999999999999
+ 30
+0.0
+ 11
+-24.77934783128097
+ 21
+-46.99999999999999
+ 31
+0.0
+  0
+LINE
+  5
+AB
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
@@ -3585,13 +3207,13 @@ AcDbLine
   0
 LINE
   5
-BC
+AC
 330
 70
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
@@ -3609,13 +3231,13 @@ AcDbLine
   0
 LINE
   5
-BD
+AD
 330
 70
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
@@ -3633,37 +3255,13 @@ AcDbLine
   0
 LINE
   5
-BE
+AE
 330
 70
 100
 AcDbEntity
   8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
-0.0000000000000038
- 20
-126.999999910593
- 30
-0.0
- 11
--6.000000089406967
- 21
-126.999999910593
- 31
-0.0
-  0
-LINE
-  5
-BF
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
@@ -3681,13 +3279,13 @@ AcDbLine
   0
 LINE
   5
-C0
+AF
 330
 70
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
@@ -3705,13 +3303,13 @@ AcDbLine
   0
 LINE
   5
-C1
+B0
 330
 70
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
@@ -3721,7 +3319,7 @@ AcDbLine
  30
 0.0
  11
--6.000000089406967
+-6.000000089406968
  21
 -47.0
  31
@@ -3729,109 +3327,85 @@ AcDbLine
   0
 LINE
   5
-C2
+B1
 330
 70
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
--16.00000023841858
+-24.77934783128097
  20
-83.0
- 30
-0.0
- 11
--16.00000023841858
- 21
 89.0
+ 30
+0.0
+ 11
+-24.77934783128097
+ 21
+83.0
  31
 0.0
   0
 LINE
   5
-C3
+B2
 330
 70
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
--24.77934783128096
+-16.00000023841858
  20
-0.0
+-9.0
  30
 0.0
  11
--24.77934783128096
+-16.00000023841858
  21
+-2.999999999999999
+ 31
+0.0
+  0
+LINE
+  5
+B3
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-16.00000023841858
+ 20
 6.0
- 31
-0.0
-  0
-LINE
-  5
-C4
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--45.37370922800078
- 20
-89.0
  30
 0.0
  11
--45.37370922800078
+-16.00000023841858
  21
-83.0
+0.0
  31
 0.0
   0
 LINE
   5
-C5
+B4
 330
 70
 100
 AcDbEntity
   8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--24.77934783128096
- 20
-89.0
- 30
-0.0
- 11
--24.77934783128096
- 21
-83.0
- 31
-0.0
-  0
-LINE
-  5
-C6
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
@@ -3849,25 +3423,457 @@ AcDbLine
   0
 LINE
   5
+B5
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-6.0
+ 20
+30.00000022351742
+ 30
+0.0
+ 11
+0.0
+ 21
+30.00000022351742
+ 31
+0.0
+  0
+LINE
+  5
+B6
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+3.0
+ 20
+60.00000089406967
+ 30
+0.0
+ 11
+9.000000000000001
+ 21
+60.00000089406967
+ 31
+0.0
+  0
+LINE
+  5
+B7
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+0.0
+ 20
+15.00000022351741
+ 30
+0.0
+ 11
+0.0
+ 21
+0.0
+ 31
+0.0
+  0
+LINE
+  5
+B8
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-6.000000089406968
+ 20
+-47.0
+ 30
+0.0
+ 11
+-6.000000089406968
+ 21
+-53.0
+ 31
+0.0
+  0
+LINE
+  5
+B9
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-6.0
+ 20
+15.00000022351741
+ 30
+0.0
+ 11
+-6.0
+ 21
+30.00000022351742
+ 31
+0.0
+  0
+LINE
+  5
+BA
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-54.0000008046627
+ 20
+-53.0
+ 30
+0.0
+ 11
+-45.37336003900339
+ 21
+-53.0
+ 31
+0.0
+  0
+LINE
+  5
+BB
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-54.0000008046627
+ 20
+74.0
+ 30
+0.0
+ 11
+-54.0000008046627
+ 21
+80.0
+ 31
+0.0
+  0
+LINE
+  5
+BC
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-24.77934783128097
+ 20
+127.0
+ 30
+0.0
+ 11
+-24.77934783128097
+ 21
+133.0
+ 31
+0.0
+  0
+LINE
+  5
+BD
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-24.77934783128097
+ 20
+-46.99999999999999
+ 30
+0.0
+ 11
+-24.77934783128097
+ 21
+-53.0
+ 31
+0.0
+  0
+LINE
+  5
+BE
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-34.77934783128096
+ 20
+-62.00000000000001
+ 30
+0.0
+ 11
+-34.77934783128096
+ 21
+-56.00000000000001
+ 31
+0.0
+  0
+LINE
+  5
+BF
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-6.0
+ 20
+60.00000067055225
+ 30
+0.0
+ 11
+0.0
+ 21
+60.00000067055225
+ 31
+0.0
+  0
+LINE
+  5
+C0
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-24.77934783128097
+ 20
+133.0
+ 30
+0.0
+ 11
+-34.77934783128096
+ 21
+133.0
+ 31
+0.0
+  0
+LINE
+  5
+C1
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-34.77934783128096
+ 20
+-53.0
+ 30
+0.0
+ 11
+-24.77934783128096
+ 21
+-53.0
+ 31
+0.0
+  0
+LINE
+  5
+C2
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-45.37370922800078
+ 20
+133.0
+ 30
+0.0
+ 11
+-55.37370922800079
+ 21
+133.0
+ 31
+0.0
+  0
+LINE
+  5
+C3
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-60.00000089406967
+ 20
+127.0
+ 30
+0.0
+ 11
+-55.37370922800079
+ 21
+127.0
+ 31
+0.0
+  0
+LINE
+  5
+C4
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-24.77934783128097
+ 20
+79.99999999999999
+ 30
+0.0
+ 11
+-24.77934783128097
+ 21
+73.99999999999998
+ 31
+0.0
+  0
+LINE
+  5
+C5
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-24.77934783128097
+ 20
+-62.00000000000001
+ 30
+0.0
+ 11
+-34.77934783128096
+ 21
+-62.00000000000001
+ 31
+0.0
+  0
+LINE
+  5
+C6
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-6.0
+ 20
+-76.00000135600565
+ 30
+0.0
+ 11
+0.0
+ 21
+-76.00000135600565
+ 31
+0.0
+  0
+LINE
+  5
 C7
 330
 70
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
-47.00000000000001
+-34.77934783128096
  20
-30.00000044703484
+83.0
  30
 0.0
  11
-47.00000000000001
+-24.77934783128096
  21
-45.00000044703483
+83.0
  31
 0.0
   0
@@ -3879,19 +3885,19 @@ C8
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
 -60.0
  20
-0.0
+79.99999999999999
  30
 0.0
  11
--53.99936003900339
+-54.0000008046627
  21
-0.0
+80.0
  31
 0.0
   0
@@ -3903,343 +3909,7 @@ C9
 100
 AcDbEntity
   8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--6.0
- 20
-30.00000022351742
- 30
-0.0
- 11
-0.0
- 21
-30.00000022351742
- 31
-0.0
-  0
-LINE
-  5
-CA
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
-3.0
- 20
-60.00000089406967
- 30
-0.0
- 11
-9.000000000000001
- 21
-60.00000089406967
- 31
-0.0
-  0
-LINE
-  5
-CB
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
-0.0
- 20
-15.00000022351741
- 30
-0.0
- 11
-0.0
- 21
-0.0
- 31
-0.0
-  0
-LINE
-  5
-CC
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--6.0
- 20
-15.00000022351741
- 30
-0.0
- 11
--6.0
- 21
-30.00000022351742
- 31
-0.0
-  0
-LINE
-  5
-CD
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--34.77934783128096
- 20
--2.999999999999998
- 30
-0.0
- 11
--24.77934783128096
- 21
--2.999999999999998
- 31
-0.0
-  0
-LINE
-  5
-CE
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--54.0000008046627
- 20
--53.0
- 30
-0.0
- 11
--45.37336003900339
- 21
--53.0
- 31
-0.0
-  0
-LINE
-  5
-CF
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--6.0
- 20
-60.00000067055225
- 30
-0.0
- 11
-0.0
- 21
-60.00000067055225
- 31
-0.0
-  0
-LINE
-  5
-D0
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--24.77934783128096
- 20
-133.0
- 30
-0.0
- 11
--34.77934783128096
- 21
-133.0
- 31
-0.0
-  0
-LINE
-  5
-D1
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--34.77934783128096
- 20
--53.0
- 30
-0.0
- 11
--24.77934783128096
- 21
--53.0
- 31
-0.0
-  0
-LINE
-  5
-D2
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
-3.0
- 20
-30.00000067055225
- 30
-0.0
- 11
-3.0
- 21
-15.00000022351741
- 31
-0.0
-  0
-LINE
-  5
-D3
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--45.37370922800078
- 20
-133.0
- 30
-0.0
- 11
--55.37370922800078
- 21
-133.0
- 31
-0.0
-  0
-LINE
-  5
-D4
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--6.0
- 20
--76.00000135600566
- 30
-0.0
- 11
-0.0
- 21
--76.00000135600566
- 31
-0.0
-  0
-LINE
-  5
-D5
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--34.77934783128096
- 20
-83.0
- 30
-0.0
- 11
--24.77934783128096
- 21
-83.0
- 31
-0.0
-  0
-LINE
-  5
-D6
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--60.0
- 20
-79.99999999999999
- 30
-0.0
- 11
--54.0000008046627
- 21
-79.99999999999999
- 31
-0.0
-  0
-LINE
-  5
-D7
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
@@ -4257,13 +3927,37 @@ AcDbLine
   0
 LINE
   5
-D8
+CA
 330
 70
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-53.99936003900339
+ 20
+6.0
+ 30
+0.0
+ 11
+-53.99936003900339
+ 21
+0.0
+ 31
+0.0
+  0
+LINE
+  5
+CB
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
@@ -4273,9 +3967,321 @@ AcDbLine
  30
 0.0
  11
--34.77934783128097
+-34.77934783128096
  21
-79.99999999999997
+79.99999999999999
+ 31
+0.0
+  0
+LINE
+  5
+CC
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-6.000000089406968
+ 20
+126.999999910593
+ 30
+0.0
+ 11
+-6.000000089406968
+ 21
+133.0
+ 31
+0.0
+  0
+LINE
+  5
+CD
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-34.77934783128096
+ 20
+127.0
+ 30
+0.0
+ 11
+-45.37370922800078
+ 21
+127.0
+ 31
+0.0
+  0
+LINE
+  5
+CE
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-16.00000023841858
+ 20
+133.0
+ 30
+0.0
+ 11
+-16.00000023841858
+ 21
+127.0
+ 31
+0.0
+  0
+LINE
+  5
+CF
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-6.000000238418579
+ 20
+79.99999999999999
+ 30
+0.0
+ 11
+-6.000000238418579
+ 21
+74.0
+ 31
+0.0
+  0
+LINE
+  5
+D0
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-24.77934783128097
+ 20
+0.0
+ 30
+0.0
+ 11
+-24.77934783128097
+ 21
+6.0
+ 31
+0.0
+  0
+LINE
+  5
+D1
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-60.0
+ 20
+0.0
+ 30
+0.0
+ 11
+-53.99936003900339
+ 21
+0.0
+ 31
+0.0
+  0
+LINE
+  5
+D2
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-34.77934783128096
+ 20
+-2.999999999999999
+ 30
+0.0
+ 11
+-24.77934783128096
+ 21
+-2.999999999999998
+ 31
+0.0
+  0
+LINE
+  5
+D3
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-45.37336003900339
+ 20
+-53.0
+ 30
+0.0
+ 11
+-45.37336003900339
+ 21
+-46.99999999999999
+ 31
+0.0
+  0
+LINE
+  5
+D4
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+3.0
+ 20
+30.00000067055225
+ 30
+0.0
+ 11
+3.0
+ 21
+15.00000022351741
+ 31
+0.0
+  0
+LINE
+  5
+D5
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-24.77934783128097
+ 20
+-9.0
+ 30
+0.0
+ 11
+-16.00000023841858
+ 21
+-9.0
+ 31
+0.0
+  0
+LINE
+  5
+D6
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+0.0000000000000038
+ 20
+126.999999910593
+ 30
+0.0
+ 11
+-6.000000089406968
+ 21
+126.999999910593
+ 31
+0.0
+  0
+LINE
+  5
+D7
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-45.37370922800078
+ 20
+89.0
+ 30
+0.0
+ 11
+-45.37370922800078
+ 21
+83.0
+ 31
+0.0
+  0
+LINE
+  5
+D8
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+0.0
+ 20
+45.00000067055225
+ 30
+0.0
+ 11
+0.0
+ 21
+30.00000022351742
  31
 0.0
   0
@@ -4287,19 +4293,19 @@ D9
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
-22.00000032782555
+0.0
  20
-6.0
+45.00000067055225
  30
 0.0
  11
-22.00000032782555
+-6.0
  21
-0.0
+45.00000067055225
  31
 0.0
   0
@@ -4311,19 +4317,19 @@ DA
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
-0.0
+38.00000032782555
  20
-15.00000022351741
+0.0
  30
 0.0
  11
--6.0
+22.00000032782555
  21
-15.00000022351741
+0.0
  31
 0.0
   0
@@ -4335,19 +4341,19 @@ DB
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
-38.00000032782555
+0.0000000000000033
  20
-80.00000119209289
+-56.00000000000001
  30
 0.0
  11
-38.00000032782555
+0.0
  21
-74.00000119209289
+-76.00000135600566
  31
 0.0
   0
@@ -4359,19 +4365,19 @@ DC
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
 -16.00000023841858
  20
--53.0
+-2.999999999999999
  30
 0.0
  11
--6.000000089406967
+-6.0
  21
--53.0
+-3.000000044703483
  31
 0.0
   0
@@ -4383,19 +4389,19 @@ DD
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
--6.0
+-45.37370922800078
  20
-102.0000015199184
+-62.00000000000001
  30
 0.0
  11
--6.0
+-53.99970922800079
  21
-118.0000015199184
+-62.00000000000001
  31
 0.0
   0
@@ -4407,247 +4413,7 @@ DE
 100
 AcDbEntity
   8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
-38.00000032782555
- 20
-0.0
- 30
-0.0
- 11
-38.00000032782555
- 21
-6.0
- 31
-0.0
-  0
-LINE
-  5
-DF
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
-0.0
- 20
--22.00000032782555
- 30
-0.0
- 11
--6.0
- 21
--22.00000032782555
- 31
-0.0
-  0
-LINE
-  5
-E0
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--6.0
- 20
--38.00000032782555
- 30
-0.0
- 11
-0.0
- 21
--38.00000032782555
- 31
-0.0
-  0
-LINE
-  5
-E1
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--6.0
- 20
--91.00000135600566
- 30
-0.0
- 11
--6.0
- 21
--76.00000135600566
- 31
-0.0
-  0
-LINE
-  5
-E2
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
-0.0
- 20
-45.00000067055225
- 30
-0.0
- 11
--6.0
- 21
-45.00000067055225
- 31
-0.0
-  0
-LINE
-  5
-E3
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
-3.0
- 20
-15.00000022351741
- 30
-0.0
- 11
-9.000000000000001
- 21
-15.00000022351741
- 31
-0.0
-  0
-LINE
-  5
-E4
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--6.0
- 20
--9.000000044703483
- 30
-0.0
- 11
-0.0
- 21
--9.000000044703483
- 31
-0.0
-  0
-LINE
-  5
-E5
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--6.0
- 20
--3.000000044703483
- 30
-0.0
- 11
--6.0
- 21
--9.000000044703483
- 31
-0.0
-  0
-LINE
-  5
-E6
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
-22.00000032782555
- 20
-74.00000119209289
- 30
-0.0
- 11
-22.00000032782555
- 21
-80.00000119209289
- 31
-0.0
-  0
-LINE
-  5
-E7
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--45.37370922800078
- 20
--62.00000000000001
- 30
-0.0
- 11
--53.99970922800078
- 21
--62.00000000000001
- 31
-0.0
-  0
-LINE
-  5
-E8
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
@@ -4665,37 +4431,37 @@ AcDbLine
   0
 LINE
   5
-E9
+DF
 330
 70
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
-3.0
+-54.00462621332807
  20
-60.00000089406967
+83.0
  30
 0.0
  11
-3.0
+-45.37370922800078
  21
-45.00000067055225
+83.0
  31
 0.0
   0
 LINE
   5
-EA
+E0
 330
 70
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
@@ -4707,19 +4473,211 @@ AcDbLine
  11
 -45.37370922800078
  21
-80.0
+79.99999999999999
  31
 0.0
   0
 LINE
   5
-EB
+E1
 330
 70
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-24.77934783128097
+ 20
+0.0
+ 30
+0.0
+ 11
+-16.00000023841858
+ 21
+0.0
+ 31
+0.0
+  0
+LINE
+  5
+E2
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+0.0
+ 20
+102.0000015199184
+ 30
+0.0
+ 11
+0.0
+ 21
+89.00000000000002
+ 31
+0.0
+  0
+LINE
+  5
+E3
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+38.00000032782555
+ 20
+0.0
+ 30
+0.0
+ 11
+38.00000032782555
+ 21
+6.0
+ 31
+0.0
+  0
+LINE
+  5
+E4
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-6.0
+ 20
+118.0000015199184
+ 30
+0.0
+ 11
+0.0
+ 21
+118.0000015199184
+ 31
+0.0
+  0
+LINE
+  5
+E5
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+0.0
+ 20
+-9.000000044703481
+ 30
+0.0
+ 11
+0.0
+ 21
+-22.00000032782555
+ 31
+0.0
+  0
+LINE
+  5
+E6
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+22.00000032782555
+ 20
+6.0
+ 30
+0.0
+ 11
+9.00000013411045
+ 21
+6.0
+ 31
+0.0
+  0
+LINE
+  5
+E7
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-6.0
+ 20
+-91.00000135600565
+ 30
+0.0
+ 11
+-6.0
+ 21
+-76.00000135600566
+ 31
+0.0
+  0
+LINE
+  5
+E8
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+0.0
+ 20
+102.0000015199184
+ 30
+0.0
+ 11
+-6.0
+ 21
+102.0000015199184
+ 31
+0.0
+  0
+LINE
+  5
+E9
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
@@ -4737,25 +4695,73 @@ AcDbLine
   0
 LINE
   5
+EA
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+0.0
+ 20
+79.99999999999999
+ 30
+0.0
+ 11
+0.0
+ 21
+60.00000067055225
+ 31
+0.0
+  0
+LINE
+  5
+EB
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+0.0
+ 20
+-38.00000032782555
+ 30
+0.0
+ 11
+0.0
+ 21
+-47.0
+ 31
+0.0
+  0
+LINE
+  5
 EC
 330
 70
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
-53.0
+38.00000032782555
  20
-60.00000089406967
+6.0
  30
 0.0
  11
-53.0
+47.00000070035456
  21
-45.00000044703483
+6.0
  31
 0.0
   0
@@ -4767,19 +4773,19 @@ ED
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
-0.0000000000000038
+-60.00000089406967
  20
-126.999999910593
+-46.99999999999999
  30
 0.0
  11
-0.0
+-54.0000008046627
  21
-118.0000015199184
+-46.99999999999999
  31
 0.0
   0
@@ -4791,7 +4797,103 @@ EE
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+22.00000032782555
+ 20
+74.00000119209288
+ 30
+0.0
+ 11
+22.00000032782555
+ 21
+80.00000119209287
+ 31
+0.0
+  0
+LINE
+  5
+EF
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-6.0
+ 20
+-3.000000044703483
+ 30
+0.0
+ 11
+-6.0
+ 21
+-9.000000044703481
+ 31
+0.0
+  0
+LINE
+  5
+F0
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+0.0
+ 20
+15.00000022351741
+ 30
+0.0
+ 11
+-6.0
+ 21
+15.00000022351741
+ 31
+0.0
+  0
+LINE
+  5
+F1
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+3.0
+ 20
+60.00000089406967
+ 30
+0.0
+ 11
+3.0
+ 21
+45.00000067055225
+ 31
+0.0
+  0
+LINE
+  5
+F2
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
@@ -4809,121 +4911,25 @@ AcDbLine
   0
 LINE
   5
-EF
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
-0.0
- 20
-102.0000015199184
- 30
-0.0
- 11
--6.0
- 21
-102.0000015199184
- 31
-0.0
-  0
-LINE
-  5
-F0
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--60.00000089406967
- 20
-127.0
- 30
-0.0
- 11
--60.00462621332808
- 21
-89.0
- 31
-0.0
-  0
-LINE
-  5
-F1
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--60.0
- 20
--9.0
- 30
-0.0
- 11
--54.0
- 21
--9.0
- 31
-0.0
-  0
-LINE
-  5
-F2
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--54.00462621332808
- 20
-83.0
- 30
-0.0
- 11
--45.37370922800077
- 21
-83.0
- 31
-0.0
-  0
-LINE
-  5
 F3
 330
 70
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
--24.77934783128096
+0.0
  20
-79.99999999999999
+-22.00000032782555
  30
 0.0
  11
--16.00000023841858
+-6.0
  21
-80.0
+-22.00000032782555
  31
 0.0
   0
@@ -4935,19 +4941,19 @@ F4
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
-0.0
+-60.00462621332808
  20
-45.00000067055225
+89.0
  30
 0.0
  11
-0.0
+-54.00462621332807
  21
-30.00000022351742
+89.0
  31
 0.0
   0
@@ -4959,7 +4965,55 @@ F5
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+53.0
+ 20
+30.00000044703484
+ 30
+0.0
+ 11
+53.0
+ 21
+15.00000022351741
+ 31
+0.0
+  0
+LINE
+  5
+F6
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-60.0
+ 20
+-56.00000000000001
+ 30
+0.0
+ 11
+-53.99970922800079
+ 21
+-56.00000000000001
+ 31
+0.0
+  0
+LINE
+  5
+F7
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
@@ -4977,73 +5031,25 @@ AcDbLine
   0
 LINE
   5
-F6
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--24.77934783128096
- 20
-0.0
- 30
-0.0
- 11
--16.00000023841858
- 21
-0.0
- 31
-0.0
-  0
-LINE
-  5
-F7
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--6.000000238418579
- 20
-0.0
- 30
-0.0
- 11
-0.0
- 21
-0.0
- 31
-0.0
-  0
-LINE
-  5
 F8
 330
 70
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
-0.0
+3.0
  20
-79.99999999999999
+15.00000022351741
  30
 0.0
  11
-0.0
+9.000000000000001
  21
-60.00000067055225
+15.00000022351741
  31
 0.0
   0
@@ -5055,7 +5061,103 @@ F9
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-6.0
+ 20
+-22.00000032782555
+ 30
+0.0
+ 11
+-6.0
+ 21
+-38.00000032782555
+ 31
+0.0
+  0
+LINE
+  5
+FA
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-60.0
+ 20
+-9.0
+ 30
+0.0
+ 11
+-54.0
+ 21
+-9.000000000000001
+ 31
+0.0
+  0
+LINE
+  5
+FB
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+22.00000032782555
+ 20
+6.0
+ 30
+0.0
+ 11
+22.00000032782555
+ 21
+0.0
+ 31
+0.0
+  0
+LINE
+  5
+FC
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-6.0
+ 20
+-9.000000044703481
+ 30
+0.0
+ 11
+0.0
+ 21
+-9.000000044703481
+ 31
+0.0
+  0
+LINE
+  5
+FD
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
@@ -5073,121 +5175,25 @@ AcDbLine
   0
 LINE
   5
-FA
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
-0.0
- 20
-102.0000015199184
- 30
-0.0
- 11
-0.0
- 21
-89.0
- 31
-0.0
-  0
-LINE
-  5
-FB
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
-9.000000000000001
- 20
-30.00000044703484
- 30
-0.0
- 11
-9.000000000000001
- 21
-45.00000044703483
- 31
-0.0
-  0
-LINE
-  5
-FC
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
-9.000000000000001
- 20
-45.00000044703483
- 30
-0.0
- 11
-3.0
- 21
-45.00000067055225
- 31
-0.0
-  0
-LINE
-  5
-FD
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--45.00000081956386
- 20
--130.0
- 30
-0.0
- 11
--53.62600081956387
- 21
--130.0
- 31
-0.0
-  0
-LINE
-  5
 FE
 330
 70
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
--60.00000089406967
+-16.00000023841858
  20
--46.99999999999999
+-53.0
  30
 0.0
  11
--54.0000008046627
+-6.000000089406967
  21
--46.99999999999999
+-53.0
  31
 0.0
   0
@@ -5199,19 +5205,19 @@ FF
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
--16.00000023841858
+9.000000000000001
  20
--2.999999999999998
+45.00000044703482
  30
 0.0
  11
--6.0
+3.0
  21
--3.000000044703483
+45.00000067055225
  31
 0.0
   0
@@ -5223,19 +5229,19 @@ LINE
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
--6.0
+-6.000000238418579
  20
-118.0000015199184
+0.0
  30
 0.0
  11
 0.0
  21
-118.0000015199184
+0.0
  31
 0.0
   0
@@ -5247,17 +5253,17 @@ LINE
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
 -6.0
  20
--22.00000032782555
+-38.00000032782555
  30
 0.0
  11
--6.0
+0.0
  21
 -38.00000032782555
  31
@@ -5271,19 +5277,19 @@ LINE
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
--6.000000089406967
+53.0
  20
-133.0
+60.00000089406967
  30
 0.0
  11
--16.00000023841858
+53.0
  21
-133.0
+45.00000044703482
  31
 0.0
   0
@@ -5295,17 +5301,17 @@ LINE
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
--60.00462621332808
+-60.00000089406967
  20
-89.0
+127.0
  30
 0.0
  11
--54.00462621332808
+-60.00462621332808
  21
 89.0
  31
@@ -5319,19 +5325,19 @@ LINE
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
-53.0
+38.00000032782555
  20
-30.00000044703484
+80.00000119209287
  30
 0.0
  11
-53.0
+38.00000032782555
  21
-15.00000022351741
+74.00000119209288
  31
 0.0
   0
@@ -5343,7 +5349,79 @@ LINE
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+9.000000000000001
+ 20
+30.00000044703484
+ 30
+0.0
+ 11
+9.000000000000001
+ 21
+45.00000044703482
+ 31
+0.0
+  0
+LINE
+  5
+106
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-24.77934783128097
+ 20
+79.99999999999999
+ 30
+0.0
+ 11
+-16.00000023841858
+ 21
+80.0
+ 31
+0.0
+  0
+LINE
+  5
+107
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-6.000000089406968
+ 20
+133.0
+ 30
+0.0
+ 11
+-16.00000023841858
+ 21
+133.0
+ 31
+0.0
+  0
+LINE
+  5
+108
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
@@ -5361,13 +5439,37 @@ AcDbLine
   0
 LINE
   5
-106
+109
 330
 70
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-6.0
+ 20
+102.0000015199184
+ 30
+0.0
+ 11
+-6.0
+ 21
+118.0000015199184
+ 31
+0.0
+  0
+LINE
+  5
+10A
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
@@ -5385,13 +5487,61 @@ AcDbLine
   0
 LINE
   5
-107
+10B
 330
 70
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+0.0000000000000038
+ 20
+126.999999910593
+ 30
+0.0
+ 11
+0.0
+ 21
+118.0000015199184
+ 31
+0.0
+  0
+LINE
+  5
+10C
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-45.00000081956385
+ 20
+-130.0
+ 30
+0.0
+ 11
+-53.62600081956387
+ 21
+-130.0
+ 31
+0.0
+  0
+LINE
+  5
+10D
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
@@ -5409,115 +5559,19 @@ AcDbLine
   0
 LINE
   5
-108
+10E
 330
 70
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
--60.0
+47.00000070035456
  20
--56.00000000000001
- 30
-0.0
- 11
--53.99970922800078
- 21
--56.00000000000001
- 31
-0.0
-  0
-LINE
-  5
-109
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
-0.0
- 20
--9.000000044703483
- 30
-0.0
- 11
-0.0
- 21
--22.00000032782555
- 31
-0.0
-  0
-LINE
-  5
-10A
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
-38.00000032782555
- 20
-0.0
- 30
-0.0
- 11
-22.00000032782555
- 21
-0.0
- 31
-0.0
-  0
-LINE
-  5
-10B
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
-22.00000032782555
- 20
-6.0
- 30
-0.0
- 11
-9.00000013411045
- 21
-6.0
- 31
-0.0
-  0
-LINE
-  5
-10C
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
-47.00000070035457
- 20
-74.00000119209289
+74.00000119209288
  30
 0.0
  11
@@ -5529,13 +5583,13 @@ AcDbLine
   0
 LINE
   5
-10D
+10F
 330
 70
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
@@ -5553,73 +5607,25 @@ AcDbLine
   0
 LINE
   5
-10E
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
-22.00000032782555
- 20
-74.00000119209289
- 30
-0.0
- 11
-9.00000013411045
- 21
-74.00000119209289
- 31
-0.0
-  0
-LINE
-  5
-10F
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
-0.0000000000000034
- 20
--56.00000000000001
- 30
-0.0
- 11
-0.0
- 21
--76.00000135600566
- 31
-0.0
-  0
-LINE
-  5
 110
 330
 70
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
-0.0
+22.00000032782555
  20
--38.00000032782555
+74.00000119209288
  30
 0.0
  11
-0.0
+9.00000013411045
  21
--47.0
+74.00000119209288
  31
 0.0
   0
@@ -5631,19 +5637,19 @@ LINE
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
-38.00000032782555
+-35.00000052154064
  20
-6.0
+35.00000052154064
  30
 0.0
  11
-47.00000070035457
+-25.00000037252903
  21
-6.0
+35.00000052154064
  31
 0.0
   0
@@ -5655,13 +5661,13 @@ LINE
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
-0.0
+-6.000000089406968
  20
--121.0000018030405
+-136.0
  30
 0.0
  11
@@ -5679,19 +5685,19 @@ LINE
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
--6.000000089406967
+-34.77934783128096
  20
--136.0
+-56.00000000000001
  30
 0.0
  11
-0.0
+-45.37370922800078
  21
--136.0
+-56.00000000000001
  31
 0.0
   0
@@ -5703,19 +5709,19 @@ LINE
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
--45.00000081956386
+-35.00000052154064
  20
--136.0
+40.00000059604644
  30
 0.0
  11
 -35.00000052154064
  21
--136.0
+50.00000074505805
  31
 0.0
   0
@@ -5727,7 +5733,79 @@ LINE
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+22.00000032782555
+ 20
+80.00000119209287
+ 30
+0.0
+ 11
+38.00000032782555
+ 21
+80.00000119209287
+ 31
+0.0
+  0
+LINE
+  5
+116
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+38.00000032782555
+ 20
+74.00000119209288
+ 30
+0.0
+ 11
+47.00000070035456
+ 21
+74.00000119209288
+ 31
+0.0
+  0
+LINE
+  5
+117
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-40.00000059604644
+ 20
+20.00000029802322
+ 30
+0.0
+ 11
+-40.00000059604644
+ 21
+25.00000037252903
+ 31
+0.0
+  0
+LINE
+  5
+118
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
@@ -5745,97 +5823,25 @@ AcDbLine
   0
 LINE
   5
-116
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--34.77934783128096
- 20
--56.00000000000001
- 30
-0.0
- 11
--45.37370922800077
- 21
--56.00000000000001
- 31
-0.0
-  0
-LINE
-  5
-117
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
-38.00000032782555
- 20
-74.00000119209289
- 30
-0.0
- 11
-47.00000070035457
- 21
-74.00000119209289
- 31
-0.0
-  0
-LINE
-  5
-118
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
--60.0
- 20
--56.00000000000001
- 30
-0.0
- 11
--60.0
- 21
--136.0
- 31
-0.0
-  0
-LINE
-  5
 119
 330
 70
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
--24.77934783128096
+9.00000013411045
  20
--56.00000000000001
+74.00000119209288
  30
 0.0
  11
--16.00000023841858
+9.000000000000001
  21
--56.00000092387199
+60.00000089406967
  31
 0.0
   0
@@ -5847,7 +5853,79 @@ LINE
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+0.0
+ 20
+-121.0000018030405
+ 30
+0.0
+ 11
+0.0
+ 21
+-136.0
+ 31
+0.0
+  0
+LINE
+  5
+11B
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-40.00000059604644
+ 20
+25.00000037252903
+ 30
+0.0
+ 11
+-35.00000052154064
+ 21
+25.00000037252903
+ 31
+0.0
+  0
+LINE
+  5
+11C
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-35.00000052154064
+ 20
+50.00000074505805
+ 30
+0.0
+ 11
+-25.00000037252903
+ 21
+60.00000089406967
+ 31
+0.0
+  0
+LINE
+  5
+11D
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
@@ -5865,97 +5943,25 @@ AcDbLine
   0
 LINE
   5
-11B
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
-22.00000032782555
- 20
-80.00000119209289
- 30
-0.0
- 11
-38.00000032782555
- 21
-80.00000119209289
- 31
-0.0
-  0
-LINE
-  5
-11C
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
-9.00000013411045
- 20
-74.00000119209289
- 30
-0.0
- 11
-9.000000000000001
- 21
-60.00000089406967
- 31
-0.0
-  0
-LINE
-  5
-11D
-330
-70
-100
-AcDbEntity
-  8
-Caja v11_Sketch1
-100
-AcDbLine
- 10
-9.000000000000001
- 20
-15.00000022351741
- 30
-0.0
- 11
-9.00000013411045
- 21
-6.0
- 31
-0.0
-  0
-LINE
-  5
 11E
 330
 70
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
-0.0
+-40.00000059604644
  20
--91.00000135600566
+20.00000029802322
  30
 0.0
  11
-0.0000000000000035
+-25.00000037252903
  21
--106.0000018030405
+20.00000029802322
  31
 0.0
   0
@@ -5967,7 +5973,55 @@ LINE
 100
 AcDbEntity
   8
-Caja v11_Sketch1
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-25.00000037252903
+ 20
+60.00000089406967
+ 30
+0.0
+ 11
+-25.00000037252903
+ 21
+50.00000074505805
+ 31
+0.0
+  0
+LINE
+  5
+120
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-24.77934783128097
+ 20
+-56.00000000000001
+ 30
+0.0
+ 11
+-16.00000023841858
+ 21
+-56.00000092387199
+ 31
+0.0
+  0
+LINE
+  5
+121
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
 100
 AcDbLine
  10
@@ -5977,9 +6031,105 @@ AcDbLine
  30
 0.0
  11
-47.00000070035457
+47.00000070035456
  21
 6.0
+ 31
+0.0
+  0
+LINE
+  5
+122
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-45.00000081956385
+ 20
+-136.0
+ 30
+0.0
+ 11
+-35.00000052154064
+ 21
+-136.0
+ 31
+0.0
+  0
+LINE
+  5
+123
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+-60.0
+ 20
+-56.00000000000001
+ 30
+0.0
+ 11
+-60.0
+ 21
+-136.0
+ 31
+0.0
+  0
+LINE
+  5
+124
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+9.000000000000001
+ 20
+15.00000022351741
+ 30
+0.0
+ 11
+9.00000013411045
+ 21
+6.0
+ 31
+0.0
+  0
+LINE
+  5
+125
+330
+70
+100
+AcDbEntity
+  8
+caja final espero xddd2 v1_Caja v11_Sketch1
+100
+AcDbLine
+ 10
+0.0
+ 20
+-91.00000135600565
+ 30
+0.0
+ 11
+0.0000000000000035
+ 21
+-106.0000018030405
  31
 0.0
   0
@@ -6053,11 +6203,11 @@ ACAD_VISUALSTYLE
   3
 ACDB_RECOMPOSE_DATA
 350
-128
+12E
   3
 AcDbVariableDictionary
 350
-120
+126
   0
 DICTIONARY
   5
@@ -6485,7 +6635,7 @@ X-Ray
   0
 XRECORD
   5
-128
+12E
 102
 {ACAD_REACTORS
 330
@@ -6505,7 +6655,7 @@ AcDbXrecord
   0
 DICTIONARY
   5
-120
+126
 102
 {ACAD_REACTORS
 330
@@ -6521,23 +6671,23 @@ AcDbDictionary
   3
 CANNOSCALE
 350
-125
+12B
   3
 CMLEADERSTYLE
 350
-122
+128
   3
 CTABLESTYLE
 350
-121
+127
   3
 CVIEWDETAILSTYLE
 350
-123
+129
   3
 CVIEWSECTIONSTYLE
 350
-124
+12A
   0
 ACDBDETAILVIEWSTYLE
   5
@@ -6545,7 +6695,7 @@ ACDBDETAILVIEWSTYLE
 102
 {ACAD_XDICTIONARY
 360
-12B
+131
 102
 }
 102
@@ -8269,7 +8419,7 @@ ACDBSECTIONVIEWSTYLE
 102
 {ACAD_XDICTIONARY
 360
-129
+12F
 102
 }
 102
@@ -8395,7 +8545,7 @@ TABLESTYLE
 102
 {ACAD_XDICTIONARY
 360
-126
+12C
 102
 }
 102
@@ -15025,15 +15175,15 @@ AcDbSavedByObjectVersion
   0
 DICTIONARYVAR
   5
-125
+12B
 102
 {ACAD_REACTORS
 330
-120
+126
 102
 }
 330
-120
+126
 100
 DictionaryVariables
 280
@@ -15043,15 +15193,15 @@ DictionaryVariables
   0
 DICTIONARYVAR
   5
-122
+128
 102
 {ACAD_REACTORS
 330
-120
+126
 102
 }
 330
-120
+126
 100
 DictionaryVariables
 280
@@ -15061,15 +15211,15 @@ STANDARD
   0
 DICTIONARYVAR
   5
-121
+127
 102
 {ACAD_REACTORS
 330
-120
+126
 102
 }
 330
-120
+126
 100
 DictionaryVariables
 280
@@ -15079,15 +15229,15 @@ STANDARD
   0
 DICTIONARYVAR
   5
-123
+129
 102
 {ACAD_REACTORS
 330
-120
+126
 102
 }
 330
-120
+126
 100
 DictionaryVariables
 280
@@ -15097,15 +15247,15 @@ Imperial24
   0
 DICTIONARYVAR
   5
-124
+12A
 102
 {ACAD_REACTORS
 330
-120
+126
 102
 }
 330
-120
+126
 100
 DictionaryVariables
 280
@@ -15115,7 +15265,7 @@ Imperial24
   0
 DICTIONARY
   5
-12B
+131
 330
 6B
 100
@@ -15127,7 +15277,7 @@ AcDbDictionary
   3
 ACAD_XREC_ROUNDTRIP
 360
-12C
+132
   0
 DICTIONARY
   5
@@ -15239,7 +15389,7 @@ SPECULARTILE
   0
 DICTIONARY
   5
-129
+12F
 330
 69
 100
@@ -15251,11 +15401,11 @@ AcDbDictionary
   3
 ACAD_XREC_ROUNDTRIP
 360
-12A
+130
   0
 DICTIONARY
   5
-126
+12C
 330
 65
 100
@@ -15267,19 +15417,19 @@ AcDbDictionary
   3
 ACAD_ROUNDTRIP_2008_TABLESTYLE_CELLSTYLEMAP
 360
-127
+12D
   0
 XRECORD
   5
-12C
+132
 102
 {ACAD_REACTORS
 330
-12B
+131
 102
 }
 330
-12B
+131
 100
 AcDbXrecord
 280
@@ -15655,15 +15805,15 @@ AcDbXrecord
   0
 XRECORD
   5
-12A
+130
 102
 {ACAD_REACTORS
 330
-129
+12F
 102
 }
 330
-129
+12F
 100
 AcDbXrecord
 280
@@ -15679,15 +15829,15 @@ FLAGS
   0
 CELLSTYLEMAP
   5
-127
+12D
 102
 {ACAD_REACTORS
 330
-126
+12C
 102
 }
 330
-126
+12C
 100
 AcDbCellStyleMap
  90
