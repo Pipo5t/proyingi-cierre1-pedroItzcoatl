@@ -12,3 +12,5 @@ Mediciones de kerf
 - Espesor    3mm
 - Kerf    0.115mm
 - Ranura    2.885mm
+
+Los parametros de la caja no los tengo al no poder cortar mi caja en la semana requerida. :(
