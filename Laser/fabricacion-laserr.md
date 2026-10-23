@@ -8,3 +8,7 @@ Layer Parameter
 - Name 3
 - Processing Media
 
+Mediciones de kerf
+- Espesor    3mm
+- Kerf    0.115mm
+- Ranura    2.885mm
